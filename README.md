@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quixote-liu
-- 👀 I’m interested in golang
-- 🌱 I’m currently learning golang
+- 👀 I’m interested in golang and rust
+- 🌱 I’m currently learning golang and rust
 - 💞️ I’m looking to collaborate on project about golang.
 - 📫 How to reach me lcs.shun@foxmail.com
 
